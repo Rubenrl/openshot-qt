@@ -1,0 +1,12 @@
+I have installed Openshot 2.4.2 in Windows 10 and, just after loading the screen, i get this window: 
+
+Microsoft Visual C++ Runtime library
+Runtime Error!
+Program C:\Program Files\OpenShot Video Editor\Launch.exe
+This application has requested the Runtime to terminate in an unnusual way
+Please contact the application's support team for more information.
+
+Strange thing is the program worked the first time I used it (I made a video). I've tried reinstalling and reinstalling Visual C++ too.
+I use Windows 10, and the Pc is a Rizen 5 with 8 GB RAM.
+
+Hope someone can help, thanks in advanse.
